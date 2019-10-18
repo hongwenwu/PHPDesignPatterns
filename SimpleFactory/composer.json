@@ -1,0 +1,17 @@
+{
+    "name": "hongwenwu/simple-factory",
+    "require": {
+        "php": ">=5.6"
+    },
+    "authors": [
+        {
+            "name": "hongwenwu",
+            "email": "hongwenwu@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}
